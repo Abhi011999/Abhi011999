@@ -1,8 +1,9 @@
-<h1 align=center>Abhishek Dubey
-  <h5 align=center>Full-Stack & ML (add "Enthusiast" here) 😁</h5>
+<h1 align="center">
+  <span><h3>Abhishek Dubey</h3></span>
+  <span><h6>Full-Stack & ML (add "Enthusiast" here) 😁</h6></span>
 </h1>
 
-<h2 align=center>Social & Technical Reach<h2>
+<h1 align=center>Social & Technical Reach<h1>
 
 <p align=center><a href="https://twitter.com/abdub1999"><img width="120px" height="30px" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=&message=Twitter&color=2d90d2&logoColor=white&cacheSeconds=3600" alt="Twitter Profile"/></a> <a href="https://stackoverflow.com/users/5049559/abhishek"><img width="170px" height="30px" src="https://img.shields.io/static/v1?style=for-the-badge&logo=stackoverflow&label=&message=StackOverflow&color=f48024&logoColor=white&cacheSeconds=3600" alt="StackOverflow Profile"/></a> <a href="https://www.reddit.com/user/abhi011999"><img height="30px" src="https://img.shields.io/static/v1?style=for-the-badge&logo=reddit&label=&message=Reddit&color=ff4500&logoColor=white&cacheSeconds=3600" alt="Reddit Profile"/></a> <a href="https://www.kaggle.com/abhi011999"><img height="30px" src="https://img.shields.io/static/v1?style=for-the-badge&logo=kaggle&label=&message=kaggle&color=21beff&logoColor=white&cacheSeconds=3600" alt="Kaggle Profile"/></a> <a href="https://www.instagram.com/abdub1999/"><img height="30px" src="https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&label=&message=Instagram&color=5452E1&logoColor=white&cacheSeconds=3600" alt="Instagram Profile"/></a></p>
 

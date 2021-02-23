@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span><h3>Abhishek Dubey</h3></span>
+  <span><img src="github_contrib_3d_2020.gif"></span>
   <span><h6>Full-Stack & ML (add "Enthusiast" here) 😁</h6></span>
 </h1>
 
